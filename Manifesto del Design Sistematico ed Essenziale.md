@@ -1,5 +1,5 @@
 Design System (Tassativo):  
-Stile: "Swiss Style" / Brutalist-lite. Rigore ingegneristico, trasparenza, assenza di decorazioni.  
+Stile: "Swiss Style" . Rigore ingegneristico, trasparenza, assenza di decorazioni.  
 Colori: Sfondo Nero Assoluto (\#000000), Testo/Elementi Bianco Carta (\#FFFFFF). Nessun colore d'accento.  
 Tipografia:  
 Titoli: Inter Semi Bold (Impatto e chiarezza).  
